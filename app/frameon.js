@@ -27,5 +27,5 @@ var Reframe = React.createClass({
     });
 
     ReactDOM.render(<Reframe id="container"
-                    src="https://www.friendsurance.de/upgrade-embed/index#/" />,
+                    src="https://branded.me/bornaeon" />,
                     document.getElementById('fcontainer'));

@@ -77,7 +77,7 @@
 	});
 
 	ReactDOM.render(React.createElement(Reframe, { id: 'container',
-	  src: 'https://www.friendsurance.de/upgrade-embed/index#/' }), document.getElementById('fcontainer'));
+	  src: 'https://branded.me/bornaeon' }), document.getElementById('fcontainer'));
 
 /***/ },
 /* 1 */
