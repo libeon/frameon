@@ -1,0 +1,36 @@
+{
+  "name": "frameon",
+  "version": "0.0.1",
+  "description": "A flexible iframe alternative",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libeon/frameon.git"
+  },
+  "keywords": [
+    "farmeon",
+    "iframe",
+    "borna",
+    "bornaeon"
+  ],
+  "author": "borna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libeon/frameon/issues"
+  },
+  "homepage": "https://github.com/libeon/frameon#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "clean-webpack-plugin": "^0.1.11",
+    "webpack": "^1.13.2"
+  }
+}
